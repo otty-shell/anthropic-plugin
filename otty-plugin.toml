@@ -14,7 +14,7 @@ wasm = "anthropic.wasm"
 id = "claude-code"
 name = "Claude Code"
 description = "Finds Claude Code profiles, sessions, tokens and their money."
-icon = "claude-code.svg"
+icon = "anthropic.svg"
 program = "claude"
 # The native installer of Claude Code puts the program here, a folder
 # the login shell may not have on its PATH; OTTY then starts it by
