@@ -100,7 +100,7 @@ cargo --config 'patch."https://github.com/otty-shell/otty".otty-plugin-sdk.path=
 ## Install
 
 In OTTY, open Plugins mode, press **Add plugin…**, paste
-`https://github.com/otty-shell/otty-plugin-anthropic`, then **Next** and
+`https://github.com/otty-shell/anthropic-plugin`, then **Next** and
 **Install**. OTTY installs the newest release it can run and offers the
 later ones as updates.
 
